@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
+@font-face {
+    font-family: "nomeDaFuente";
+    src: url("../assets/Fonts/FrancophilSans.ttf"), 
+         url("../assets/Fonts/FrancophilSans-Bold.ttf"),
+         url("../assets/Fonts/SEB_____.TTF"); 
+}
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "nomeDaFuente", sans-serif;
+    
 
 }
 
